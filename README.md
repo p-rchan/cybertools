@@ -23,6 +23,7 @@ CyberTools and Resources
 
 
 ## Threat Intelligence
+- NIST NVD [https://nvd.nist.gov/]
 - OASIS - home of STIX and TAXII [https://oasis-open.github.io/cti-documentation/]
 - ThreatCrowd - Search engine for threats [https://www.threatcrowd.org/]
 - OTX/Alienvault - [https://otx.alienvault.com/?utm_medium=InProduct&utm_source=ThreatCrowd]
@@ -45,6 +46,8 @@ CyberTools and Resources
 - Snort [https://www.snort.org/]
 - Scapy - packet crafting [https://scapy.net/]
 - radamsa - fuzzer [https://gitlab.com/akihe/radamsa]
+- MITRE Software [https://attack.mitre.org/software/]
+
 
 
 ## Security Blogs
