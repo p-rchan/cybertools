@@ -11,6 +11,7 @@ CyberTools and Resources
 
 # Other useful githubs
 - AWS Securing - toniblyx [https://github.com/toniblyx/my-arsenal-of-aws-security-tools]
+- Rob Vandenbrink - CIS Critical Controls [https://github.com/robvandenbrink/Critical-Controls]
 
 ## Frameworks
 - NIST 800-53 [https://nvd.nist.gov/800-53]
