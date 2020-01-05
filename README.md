@@ -18,6 +18,8 @@ CyberTools and Resources
 - CIS [https://www.cisecurity.org/controls/]
 - MITRE ATTACK [https://attack.mitre.org/]
 - UK NCSC SAAS framework [https://www.ncsc.gov.uk/blog-post/saas-security-surely-its-simple]
+- DISA STIGS [https://public.cyber.mil/stigs/]
+
 
 ## Tools
 
