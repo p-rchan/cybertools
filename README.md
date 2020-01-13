@@ -19,7 +19,7 @@ CyberTools and Resources
 - MITRE ATTACK [https://attack.mitre.org/]
 - UK NCSC SAAS framework [https://www.ncsc.gov.uk/blog-post/saas-security-surely-its-simple]
 - DISA STIGS [https://public.cyber.mil/stigs/]
-
+- Not a profile per se, but a web site devoted to server hardening automation [https://dev-sec.io/]
 
 ## Tools
 
@@ -30,7 +30,6 @@ CyberTools and Resources
 - ThreatCrowd - Search engine for threats [https://www.threatcrowd.org/]
 - OTX/Alienvault - [https://otx.alienvault.com/?utm_medium=InProduct&utm_source=ThreatCrowd]
 - Shodan.io - IOT security searching [https://www.shodan.io/]
-
 
 ## Audit Tools
 - Debian package lynis
@@ -49,8 +48,6 @@ CyberTools and Resources
 - Scapy - packet crafting [https://scapy.net/]
 - radamsa - fuzzer [https://gitlab.com/akihe/radamsa]
 - MITRE Software [https://attack.mitre.org/software/]
-
-
 
 ## Security Blogs
 - H4cker - The art of Hacking - Omar Santos [https://h4cker.org/web/]
