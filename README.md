@@ -24,6 +24,15 @@ CyberTools and Resources
 
 ## Tools
 
+## Open Source Firewalls
+- OPNSense [https://opnsense.org/]
+- Sunny Valley Sensei [https://www.sunnyvalley.io/eastpect]
+- CLAMAV Antivirus [https://www.clamav.net/]
+- IPtables
+- NFTables
+- Firewalld
+- conntrackd
+- TC
 
 ## Threat Intelligence
 - NIST NVD [https://nvd.nist.gov/]
