@@ -45,6 +45,7 @@ CyberTools and Resources
 ## Audit Tools
 - Debian package lynis
 - OWASP Cyber Defense Matrix [https://www.owasp.org/index.php/OWASP_Cyber_Defense_Matrix]
+- VULS - Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices [https://github.com/future-architect/vuls]
 
 ## Data Collection
 - GOSINT [https://github.com/ciscocsirt/GOSINT]
