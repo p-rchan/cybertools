@@ -6,6 +6,7 @@ CyberTools and Resources
 
 # Windows
 - Powershell Reference [https://docs.microsoft.com/en-us/powershell/windows/get-started?view=win10-ps]
+- Attack Surface Analyzer [https://github.com/Microsoft/AttackSurfaceAnalyzer]
 
 # Cybersecurity
 
