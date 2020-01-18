@@ -52,6 +52,7 @@ CyberTools and Resources
 
 ## Protection
 - SecurityOnion [https://securityonion.net/]
+- Zeek Guide [http://ce.sc.edu/cyberinfra/docs/workshop/Zeek_Lab_Series.pdf]
 
 ## Hacking Tools
 - Kali Linux [https://www.kali.org/]
