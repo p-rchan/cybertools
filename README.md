@@ -61,6 +61,7 @@ CyberTools and Resources
 - Scapy - packet crafting [https://scapy.net/]
 - radamsa - fuzzer [https://gitlab.com/akihe/radamsa]
 - MITRE Software [https://attack.mitre.org/software/]
+- Crackstation wordlists [https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm]
 
 ## Security Blogs
 - H4cker - The art of Hacking - Omar Santos [https://h4cker.org/web/]
