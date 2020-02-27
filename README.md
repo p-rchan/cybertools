@@ -41,6 +41,7 @@ CyberTools and Resources
 - ThreatCrowd - Search engine for threats [https://www.threatcrowd.org/]
 - OTX/Alienvault - [https://otx.alienvault.com/?utm_medium=InProduct&utm_source=ThreatCrowd]
 - Shodan.io - IOT security searching [https://www.shodan.io/]
+- MISP - [https://www.misp-project.org/]
 
 ## Audit Tools
 - Debian package lynis
