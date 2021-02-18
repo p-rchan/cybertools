@@ -66,6 +66,9 @@ CyberTools and Resources
 - MITRE Software [https://attack.mitre.org/software/]
 - Crackstation wordlists [https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm]
 
+## Cloud testing
+- Endgame [https://github.com/brandongalbraith/endgame]
+
 ## Security Blogs
 - H4cker - The art of Hacking - Omar Santos [https://h4cker.org/web/]
 - Githhub - the art of Hacking [https://github.com/The-Art-of-Hacking/h4cker]
@@ -78,3 +81,8 @@ CyberTools and Resources
 - FireEye [https://www.fireeye.com/cyber-map/threat-map.html]
 - Fortinet [https://threatmap.fortiguard.com/]
 - Resources: [https://www.secureworldexpo.com/industry-news/6-live-cyber-attack-maps]
+
+
+## DEVSECOPS tools
+- Grype / Anchore [https://anchore.com/]
+- Grype [https://github.com/anchore/grype]
