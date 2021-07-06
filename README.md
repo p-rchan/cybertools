@@ -8,6 +8,7 @@ CyberTools and Resources
 - Powershell Reference [https://docs.microsoft.com/en-us/powershell/windows/get-started?view=win10-ps]
 - Attack Surface Analyzer [https://github.com/Microsoft/AttackSurfaceAnalyzer]
 - Varonis Blog On AD [https://www.varonis.com/blog/active-directory-audit/]
+- Windows Surface Attack tool [https://github.com/Microsoft/AttackSurfaceAnalyzer?ref=stackshare]
 
 
 # Cybersecurity
